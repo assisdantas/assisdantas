@@ -27,10 +27,10 @@ wait, I almost forgot about</br>
 Game</br>
 ![Counter Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)</br>
 
-![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assisdantas&theme=radical)</br>
-![Stats](https://github-readme-stats.vercel.app/api?username=assisdantas&show_icons=true&theme=radical)</br>
+![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assisdantas&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=assisdantas&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=assisdantas&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)</br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=assisdantas&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=assisdantas&theme=radical)
