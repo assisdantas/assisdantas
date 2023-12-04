@@ -27,6 +27,8 @@ wait, i almost forgot about</br>
 Game</br>
 ![Counter Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)</br>
 
+![Snake](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
+
 ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assisdantas&theme=radical)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=assisdantas&show_icons=true&theme=radical)
