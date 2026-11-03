@@ -1,38 +1,94 @@
-### Hi there 👋, my name is Assis
-#### “Always code as if the guy who ends up maintaining your code is a violent psychopath who knows where you live.” – Martin Golding
-![“Always code as if the guy who ends up maintaining your code is a violent psychopath who knows where you live.” – Martin Golding](https://github.com/assisdantas/assisdantas/blob/fdc188faf737fc56a4b12f3c0c86fa0ff83ea8af/profile.jpeg)
+<div align="center">
 
-Just because something doesn't do what you planned for it to do doesn't mean it's useless, so do something that gives you a sense of accomplishment. Many of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience and arrogance. Don't be that guy. </br>
+# Olá, eu sou o Assis 👋
 
-- 🔭 I’m currently working on this page and other things that I think are cool. 
-- 🌱 I’m currently learning concept about clean code, python, data science and how to improve in all of this... 
-- 🤔 I’m looking for help with how to learn more and better. 
-- 💬 Ask me about anything, if I don't know, let's learn together. 
-- ⚡ Fun fact: I love cats :heart_eyes_cat: 
+**Desenvolvedor back-end, desktop e banco de dados**
+Integrações e automações para o ERP TOTVS WinThor · Oracle PL/SQL · Lazarus/Free Pascal · Infraestrutura de redes
 
-Professional researcher</br>
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)![Hack Club](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white)![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+<a href="https://github.com/assisdantas?tab=repositories"><img src="https://img.shields.io/badge/repositórios-públicos-24292f?style=flat-square&logo=github" /></a>
+<img src="https://komarev.com/ghpvc/?username=assisdantas&style=flat-square&color=0e75b6&label=visitas" />
 
-Skills and learning, maybe i don't know everything :alien:, but I read above...</br>
-![Mikrotik](https://img.shields.io/badge/Mikrotik-293239.svg?style=for-the-badge&logo=Mikrotik&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+</div>
 
-Good thing i know how to read hieroglyphics :sunglasses:, it says here :dizzy_face:...</br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![KERAS](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)![NumPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![SCIKit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+---
 
-Ecosystem</br>
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)</br>
-wait, i almost forgot about</br>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</br>
+### 🧭 O que eu faço
 
-Game</br>
-![Counter Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)</br>
+- 🏢 **ERP TOTVS WinThor** — rotinas externas, integrações e automações direto no schema Oracle: procedures, funções de preço, filas com Oracle AQ, jobs com `DBMS_SCHEDULER` e o padrão *outbox* para sincronizar dados com plataformas externas.
+- 🔌 **APIs e back-end** — serviços em Python (FastAPI/Flask), Node.js/TypeScript e Go que expõem o ERP para apps, força de vendas e parceiros.
+- 🖥️ **Desktop** — sistemas e componentes em Lazarus/Free Pascal e Delphi, de ERPs completos a pacotes para a própria IDE.
+- 🌐 **Redes e provedores** — MikroTik, VPN hub-and-spoke, VLANs, GPON e a infraestrutura de um ISP na prática.
+- 📱 **Mobile e jogos** — apps em Flutter e, nas horas vagas, jogos em C++ e para Android.
 
-![Snake](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
+### 📦 Projetos open source
 
-![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assisdantas&theme=radical)
+| Projeto | O que é |
+|---|---|
+| [**LazUpdateManager**](https://github.com/assisdantas/LazUpdateManager) | Componente não-visual para Lazarus que verifica, baixa e aplica atualizações automáticas em apps desktop. |
+| [**FormExpert**](https://github.com/assisdantas/FormExpert) | Pacote para a IDE Lazarus que gera formulários a partir dos campos de um `TSQLQuery`, com wizard de mapeamento, layout e validação. |
+| [**argon2laz**](https://github.com/assisdantas/argon2laz) | Bindings Object Pascal para o Argon2, com DLLs pré-compiladas para Windows 32/64 bits. |
+| [**vsclaz_theme**](https://github.com/assisdantas/vsclaz_theme) | Esquema de cores para o editor do Lazarus. |
 
-![Stats](https://github-readme-stats.vercel.app/api?username=assisdantas&show_icons=true&theme=radical)
+### 🛠️ Stack
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=assisdantas&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+**Linguagens**
+<p>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Free%20Pascal-2E5F9E?style=for-the-badge&logo=lazarus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=assisdantas&theme=radical)
+**Frameworks e bancos**
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+**Infra e redes**
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=assisdantas&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisdantas&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=assisdantas&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assisdantas/assisdantas/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/assisdantas/assisdantas/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+> *“Always code as if the guy who ends up maintaining your code is a violent psychopath who knows where you live.”* — Martin Golding
+
+💬 Pode me perguntar qualquer coisa — se eu não souber, a gente aprende junto. ⚡ Fun fact: amo gatos 😻
+
+</div>
