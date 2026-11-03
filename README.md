@@ -2,11 +2,12 @@
 
 # Olá, eu sou o Assis 👋
 
-**Desenvolvedor back-end, desktop e banco de dados**
-Integrações e automações para o ERP TOTVS WinThor · Oracle PL/SQL · Lazarus/Free Pascal · Infraestrutura de redes
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Integra%C3%A7%C3%B5es+com+TOTVS+WinThor;Oracle+PL%2FSQL+%E2%80%A2+Lazarus+%E2%80%A2+Python+%E2%80%A2+Go;SaaS+para+provedores+e+oficinas;Redes+MikroTik+e+GPON" alt="Typing SVG" />
 
-<a href="https://github.com/assisdantas?tab=repositories"><img src="https://img.shields.io/badge/repositórios-públicos-24292f?style=flat-square&logo=github" /></a>
-<img src="https://komarev.com/ghpvc/?username=assisdantas&style=flat-square&color=0e75b6&label=visitas" />
+**Desenvolvedor back-end, desktop e banco de dados**
+
+<a href="https://linkedin.com/in/assis-dantas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:assisdantas97@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -20,16 +21,27 @@ Integrações e automações para o ERP TOTVS WinThor · Oracle PL/SQL · Lazaru
 - 🌐 **Redes e provedores** — MikroTik, VPN hub-and-spoke, VLANs, GPON e a infraestrutura de um ISP na prática.
 - 📱 **Mobile e jogos** — apps em Flutter e, nas horas vagas, jogos em C++ e para Android.
 
-### 📦 Projetos open source
+### 🚧 Construindo agora
+
+| Projeto | O que é | Destaques |
+|---|---|---|
+| **Atlas** | SaaS multi-tenant de gestão para provedores de internet: clientes, cobrança, provisionamento PPPoE/GPON, integração MikroTik e suporte. | Módulo de rede óptica · PostgreSQL · Redis · Docker |
+| **KryoS** | Sistema completo para oficinas e empresas de refrigeração e climatização: atendimento, orçamentos com aprovação, ordens de serviço, agenda, estoque, compras, financeiro, comissões e garantias. | App offline para o técnico · Gestão de fluidos refrigerantes · PMOC · Backup com RPO de 1 h |
+| **Mnemos Vault** | Gerenciador de senhas desktop *local-first*: o cofre fica cifrado no seu computador, sem conta, nuvem, telemetria ou internet. | Argon2id + XChaCha20-Poly1305 · Frase de recuperação de 24 palavras · Backup cifrado |
+| [**ExSQL**](https://github.com/assisdantas/ExSQL) | Cliente de banco de dados desktop, minimalista e leve, para conectar e consultar vários SGBDs a partir de uma única interface. | Lazarus/Free Pascal · Múltiplos bancos · Histórico de consultas |
+
+### 📦 Open source
 
 | Projeto | O que é |
 |---|---|
+| [**argon2laz**](https://github.com/assisdantas/argon2laz) | Bindings Object Pascal para o Argon2 — o vencedor da Password Hashing Competition — com DLLs pré-compiladas para Windows 32/64 bits. Hash de senha seguro no Lazarus sem compilar nada. |
 | [**LazUpdateManager**](https://github.com/assisdantas/LazUpdateManager) | Componente não-visual para Lazarus que verifica, baixa e aplica atualizações automáticas em apps desktop. |
 | [**FormExpert**](https://github.com/assisdantas/FormExpert) | Pacote para a IDE Lazarus que gera formulários a partir dos campos de um `TSQLQuery`, com wizard de mapeamento, layout e validação. |
-| [**argon2laz**](https://github.com/assisdantas/argon2laz) | Bindings Object Pascal para o Argon2, com DLLs pré-compiladas para Windows 32/64 bits. |
 | [**vsclaz_theme**](https://github.com/assisdantas/vsclaz_theme) | Esquema de cores para o editor do Lazarus. |
 
-### 🛠️ Stack
+<details>
+<summary><b>🛠️ Ver stack completa</b></summary>
+<br>
 
 **Linguagens**
 <p>
@@ -65,6 +77,8 @@ Integrações e automações para o ERP TOTVS WinThor · Oracle PL/SQL · Lazaru
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+</details>
+
 ### 📊 Estatísticas
 
 <div align="center">
@@ -89,6 +103,6 @@ Integrações e automações para o ERP TOTVS WinThor · Oracle PL/SQL · Lazaru
 
 > *“Always code as if the guy who ends up maintaining your code is a violent psychopath who knows where you live.”* — Martin Golding
 
-💬 Pode me perguntar qualquer coisa — se eu não souber, a gente aprende junto. ⚡ Fun fact: amo gatos 😻
+💬 Pode me perguntar qualquer coisa — se eu não souber, a gente aprende junto. ⚡
 
 </div>
