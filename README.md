@@ -2,12 +2,10 @@
 
 # Olá, eu sou o Assis 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Integra%C3%A7%C3%B5es+com+TOTVS+WinThor;Oracle+PL%2FSQL+%E2%80%A2+Lazarus+%E2%80%A2+Python+%E2%80%A2+Go;SaaS+para+provedores+e+oficinas;Redes+MikroTik+e+GPON" alt="Typing SVG" />
-
 **Desenvolvedor back-end, desktop e banco de dados**
 
-<a href="https://linkedin.com/in/assis-dantas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:assisdantas97@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:SEU@EMAIL.COM"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -39,9 +37,7 @@
 | [**FormExpert**](https://github.com/assisdantas/FormExpert) | Pacote para a IDE Lazarus que gera formulários a partir dos campos de um `TSQLQuery`, com wizard de mapeamento, layout e validação. |
 | [**vsclaz_theme**](https://github.com/assisdantas/vsclaz_theme) | Esquema de cores para o editor do Lazarus. |
 
-<details>
-<summary><b>🛠️ Ver stack completa</b></summary>
-<br>
+### 🛠️ Stack
 
 **Linguagens**
 <p>
@@ -77,8 +73,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-</details>
-
 ### 📊 Estatísticas
 
 <div align="center">
@@ -103,6 +97,6 @@
 
 > *“Always code as if the guy who ends up maintaining your code is a violent psychopath who knows where you live.”* — Martin Golding
 
-💬 Pode me perguntar qualquer coisa — se eu não souber, a gente aprende junto. ⚡
+💬 Pode me perguntar qualquer coisa — se eu não souber, a gente aprende junto. ⚡ Fun fact: amo gatos 😻
 
 </div>
